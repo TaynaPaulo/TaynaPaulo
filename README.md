@@ -5,7 +5,7 @@
   </a>
 </div>
 
-Sou Iniciante na Programação, amo back-end, e busco me profissionalizar nesta área.(https://github.com/TaynaPaulo).
+Sou Iniciante na Programação, amo back-end, e busco sempre me atualizar nesta área.(https://github.com/TaynaPaulo).
 
 - ❤ Estudante de Analise e Desenvolvimento de Sistemas;
 - 👩‍💻 Aprendendo algo sobre back-end.
